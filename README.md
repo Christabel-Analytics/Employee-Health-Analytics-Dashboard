@@ -82,6 +82,3 @@ The analysis highlights opportunities to strengthen employee health through impr
   ## Author
   Christabel Bamai
 
-## Author
-
-*Christabel Esham*
